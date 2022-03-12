@@ -1,2 +1,2 @@
-# hyperdrive-schemas
-Protobuf schemas for the Hyperdrive API.
+# bitdrive-schemas
+Protobuf schemas for the Bitdrive API.
